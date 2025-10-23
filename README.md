@@ -1,2 +1,1 @@
-"# Lab3SO" 
-"# ProiectLab3SO" 
+# Test pe Linux
